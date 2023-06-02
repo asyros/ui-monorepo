@@ -1,0 +1,1 @@
+export { BinaryToDecimal } from './BinaryToDecimal'
